@@ -1,0 +1,7 @@
+E:\一些案例\PinYinHelper\PinYinHelper\PinYinHelper\bin\Debug\PinYinHelper.exe.config
+E:\一些案例\PinYinHelper\PinYinHelper\PinYinHelper\obj\Debug\PinYinHelper.csprojResolveAssemblyReference.cache
+E:\一些案例\PinYinHelper\PinYinHelper\PinYinHelper\bin\Debug\PinYinHelper.exe
+E:\一些案例\PinYinHelper\PinYinHelper\PinYinHelper\bin\Debug\PinYinHelper.pdb
+E:\一些案例\PinYinHelper\PinYinHelper\PinYinHelper\bin\Debug\ChnCharInfo.dll
+E:\一些案例\PinYinHelper\PinYinHelper\PinYinHelper\obj\Debug\PinYinHelper.exe
+E:\一些案例\PinYinHelper\PinYinHelper\PinYinHelper\obj\Debug\PinYinHelper.pdb
