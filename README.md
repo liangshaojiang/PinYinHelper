@@ -1,2 +1,2 @@
 # PinYinHelper
-汉子转拼音
+汉字转拼音
